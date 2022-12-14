@@ -1,0 +1,372 @@
+.header{
+   
+    width: 100%;
+   
+}
+.nav{
+    position: sticky;
+    top: 0;;
+}
+.pri-nav{
+    background: #0047ba;
+    height: 120px;
+    float: left;
+    width: 70%;
+}
+.pri-nav-end{
+    background: #0047ba;
+    height: 120px;
+    float: left;
+    width: 30%;
+}
+body{
+    margin: 0;
+    
+}
+.bgm{
+    width: 100%;
+}
+
+.imgaq{
+    width: 146px;
+    height: 35px;
+    float: left;
+    position:relative;
+    left:148px;
+    top: 37px;
+
+}
+.Oproduct{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    left: 185px;
+    top: 53px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 16px;
+    letter-spacing: .6px;
+    color: white;
+}
+.Oproduct:hover{
+    color: #a6cfe3;
+}
+.drink path:hover{
+    color: #a6cfe3;
+}
+.Plocator{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    left: 222px;
+    top: 53px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 16px;
+    letter-spacing: .6px;
+    color: white;
+}
+.Plocator:hover{
+    color: #a6cfe3;
+}
+.drink{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    left: 254px;
+    top: 53px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 16px;
+    letter-spacing: .6px;
+    color: white;
+
+}
+.drink:hover{
+    color: #a6cfe3;
+}
+.span1{
+    position: relative;
+    left: 201px;
+    top: 52px;
+    color: white;
+    font-family: sans-serif;
+    line-height: 19px;
+    font-size: 12px;
+    
+}
+.span2{
+    position: relative;
+    left: 238px;
+    top: 52px;
+    color: white;
+    font-family: sans-serif;
+    line-height: 19px;
+    font-size: 12px;
+    
+}
+.drop{
+    position: relative;
+    left: 2px;
+    top: 2px;
+    width: 16px;
+    height: 14px;
+   
+}
+.a{
+    fill:white;
+}
+
+   .span3{
+    position: relative;
+    left: 165px;
+    top: 46px;
+    color: #ffffff;
+    font-family: sans-serif;
+    
+    font-size: 13px;
+   }
+   .share{
+    width: 15px;
+    height: 19px;
+    position: relative;
+    left: -1px;
+    top: 5px;
+   
+
+   }
+   .lang{
+    border-radius:50%;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    border:solid 1.995px;
+    padding: 5.7px 5.5px ;
+    position:relative;
+    left: 159px;
+    top: 47px;
+    font-style: italic;
+    font-size: 13px;
+    border-color: rgb(88, 123, 205);
+  
+   }
+   .lang:hover{
+    border-color: #a6cfe3;
+    font-style: normal;
+   
+   }
+   .land{
+    border-radius:50%;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    border:solid 1.995px;
+    padding: 5.5px 5.5px ;
+    position:relative;
+    left: 173px;
+    top: 46px;
+    font-style: italic;
+    font-size: 13px;
+    border-color: rgb(88, 123, 205);
+  
+   }
+   .land:hover{
+    border-color: #a6cfe3;
+    
+   }
+   .row{
+    width: 100%;
+    height: 315px;
+    background: rgb(255, 255, 255);
+   }
+  .mainsec{
+    background-image: url(./aqf-core-background.png);
+   
+    width: 100%;
+    height: 710px;
+    background-position: center 5%;
+    background-size:cover;
+  }
+  .nav{
+    height: 120px;
+  }
+  .leftmain{
+    float: left;
+    width: 50%;
+    
+  }
+  .aqcans{
+    position: inherit;
+    margin-top: 65px;
+    height: 670;
+    width: 640px;
+   
+  }
+  .rightmain{
+    float: left;
+    width: 50%;
+  }
+  .bluelogo{
+    float: left;
+    width: 535px;
+    height: 183.5px;
+    margin-top: 165px;
+    margin-left: 22.5px;
+  }
+.ourproducts{
+    float: left;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #0047ba;
+    border: solid 2px;
+    border-radius: 4.5px;
+    margin-left: 105px;
+    margin-top: 10px;
+    height: 29px;
+    width: 171.5px;
+    text-align:center;
+    display: block;
+    padding-bottom: 0px;
+    padding-top: 15px;
+    padding-left: 0.7px;
+    font-size: 12px;
+}
+   .productloc{
+    float: left;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #0047ba;
+    border: solid 2px;
+    border-radius: 4.5px;
+    margin-left: 17px;
+    margin-top: 10px;
+    height: 29px;
+    width: 171.5px;
+    text-align:center;
+    display: block;
+    padding-bottom: 0px;
+    padding-top: 15px;
+    padding-left: 0.7px;
+    font-size: 12px;
+   
+
+
+
+}
+.productloc:hover{
+    background-color:#0047ba;
+    color: #ffffff;
+    border-color: #0047ba;
+    transition: 0.5s;
+}
+.ourproducts:hover{
+    background-color:#0047ba;
+    color: #ffffff;
+    border-color: #0047ba;
+    transition: 0.5s;
+}
+.col {
+
+   
+   
+    margin-top: 0px;
+ 
+}
+.col a{
+    display: block;
+    color: #0047ba;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 0.5;
+    font-family: sans-serif;
+}
+.col a:hover{
+    color: #0099d9;
+}
+    .primary-footer{
+        padding-top: 58px;
+      
+    }
+    .row{
+        position: relative;
+       padding-bottom: 48px;
+       display: block;
+     
+    }
+    .contain{
+        height:auto;
+        max-width: 1024px;
+        margin: 0 auto;
+        padding-left: 60px;
+        padding-right: 20px;
+    }
+    .primary-footer .row .col{
+        display: inline-block;
+        vertical-align: top;
+        padding-right: 75px;
+    }
+
+    .footer-img{
+        height: 28px;
+        width:100px ;
+        position: relative;
+        left: 882px;
+        top: -40px;
+    }
+    .facebook{
+       
+        position: relative;
+        left: 901px;
+        top: -112px;
+        height: 31px;
+        width: 31px;
+      
+    
+    }
+    .twitter{
+       
+        position: relative;
+        left: 901px;
+        top: -112px;
+        height: 32px;
+        width: 32px;
+        
+    
+    }
+    .instagram{
+       
+        position: relative;
+        left: 901px;
+        top: -113px;
+        height: 28px;
+        width: 28px;
+        
+    
+    }
+    .logo:hover .facebook{
+        transition: 0.5s;
+        opacity: 0.3;
+    }
+    .logo:hover .twitter{
+        transition: 0.5s;
+        opacity: 0.3;
+    }
+    .logo:hover .instagram{
+        transition: 0.5s;
+        opacity: 0.3;
+    }
+    .terms{
+        border-top: 1px dashed rgba(184, 184, 181,.5);
+        color: #0047ba;
+        text-align: center;
+        font-size: 11px;
+        font-family: sans-serif;
+        padding-top: 28px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+        line-height: 1.5;
+
+    }
+
+   
